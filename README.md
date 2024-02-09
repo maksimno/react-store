@@ -1,17 +1,17 @@
-## Установка
+## Install
 
-Для запуска на локальной машине необходимо:</br>
+To run on a local machine you need:</br>
 
-1. Установить npm зависимости:</br>
+1. Install npm dependencies:</br>
 
 ```sh
 npm install
 ```
 
-2. Запустить в режиме разработки:</br>
+2. Run in development mode:</br>
 
 ```sh
 npm run start
 ```
 
-Если все прошло успешно, проект будет запущен на `http://localhost:3000`
+If everything went well, the project will be launched on: `http://localhost:3000`
